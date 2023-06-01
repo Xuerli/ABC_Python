@@ -1,0 +1,1 @@
+[-[father, vble(x),vble(y)], -[mother, vble(x),vble(y)]].

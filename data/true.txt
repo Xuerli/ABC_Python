@@ -1,0 +1,4 @@
+[+[father, [eid_1],[eid_2]]].
+[+[father, [eid_1],[eid_3]]].
+[+[mother, [eid_4],[eid_2]]].
+[+[mother, [eid_4],[eid_3]]].

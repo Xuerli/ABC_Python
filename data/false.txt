@@ -1,0 +1,12 @@
+[+[mother, [eid_1],[eid_2]]].
+[+[mother, [eid_1],[eid_3]]].
+[+[father, [eid_4],[eid_2]]].
+[+[father, [eid_4],[eid_3]]].
+[+[father, [eid_1],[eid_5]]].
+[+[father, [eid_2],[eid_5]]].
+[+[father, [eid_3],[eid_5]]].
+[+[father, [eid_4],[eid_5]]].
+[+[mother, [eid_1],[eid_5]]].
+[+[mother, [eid_2],[eid_5]]].
+[+[mother, [eid_3],[eid_5]]].
+[+[mother, [eid_4],[eid_5]]].

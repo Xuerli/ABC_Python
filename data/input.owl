@@ -1,0 +1,35 @@
+[
+    {
+        "@id": "eid_1",
+        "label": "a",
+        "type": "person",
+        "gender": "male",
+        "parent":  "b",
+        "parent":  "c"
+    },
+    {
+        "@id": "eid_2",
+        "label": "b",
+        "type": "person",
+        "gender": "male"
+    },
+    {
+          "@id": "eid_3",
+          "label": "c",
+          "type": "person",
+          "gender": "female"
+    },
+    {
+          "@id": "eid_4",
+          "label": "d",
+          "type": "person",
+          "gender": "female",
+          "parent": "b"
+    },
+    {
+          "@id": "eid_5",
+          "label": "d",
+          "type": "person",
+          "gender": "female"
+    }
+]
